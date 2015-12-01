@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Meanderings from the ether...
-datePublished: '2015-12-01T04:25:30.850Z'
-dateModified: '2015-12-01T04:25:26.876Z'
+datePublished: '2015-12-01T04:40:37.592Z'
+dateModified: '2015-12-01T04:40:33.576Z'
 title: Wanderings Of My Mind
 author: []
 sourcePath: _posts/2015-12-01-wanderings-of-my-mind.md
