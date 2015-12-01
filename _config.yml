@@ -22,7 +22,7 @@ color:
     - '#090909'
     - '#efefef'
   brandStrength: 0
-  lightness: 0.8951671819668263
+  lightness: 0.75
   saturation: 0.3125
-  rhythmicContrast: 0.1375456799287349
+  rhythmicContrast: 0
 purpose: []
