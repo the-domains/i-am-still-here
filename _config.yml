@@ -1,6 +1,6 @@
 name: i am still here
 favicon: null
-layout_spectrum: 0.74614
+layout_spectrum: 0.99001
 typography_spectrum: 0.32349
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3f3f3f'
     - '#090909'
     - '#efefef'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.75
   saturation: 0.3125
   rhythmicContrast: 0
